@@ -1,0 +1,7 @@
+[ Info: Starting simulation at 2024-07-06T14:03:47.134
+  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+Precompiling project...
+[32m  ✓ [39mMimiRFFSPs
+[32m  ✓ [39mMimiGIVE
+  2 dependencies successfully precompiled in 73 seconds (235 already precompiled)
+[ Info: Finished simulation at 2024-07-06T14:11:39.677

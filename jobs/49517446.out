@@ -1,0 +1,26 @@
+Running 10 trials.
+      From worker 13:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 3:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 8:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 19:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 20:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 6:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 21:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 14:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 11:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 22:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 23:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 17:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 12:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 25:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 2:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 10:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 9:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 16:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 4:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 24:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 18:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 5:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 7:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 15:	  Activating environment at `/oak/stanford/groups/omramom/group_members/ccallahan/Smoke_SCC/GIVE-Smoke/Project.toml`
+      From worker 2:	Running 10 trials for 1 scenarios...  20%|███            |  ETA: 0:04:00[KRunning 10 trials for 1 scenarios...  30%|████▌          |  ETA: 0:02:33[KRunning 10 trials for 1 scenarios...  40%|██████         |  ETA: 0:01:46[KRunning 10 trials for 1 scenarios...  50%|███████▌       |  ETA: 0:01:16[KRunning 10 trials for 1 scenarios...  60%|█████████      |  ETA: 0:00:54[KRunning 10 trials for 1 scenarios...  70%|██████████▌    |  ETA: 0:00:37[KRunning 10 trials for 1 scenarios...  80%|████████████   |  ETA: 0:00:23[KRunning 10 trials for 1 scenarios...  90%|█████████████▌ |  ETA: 0:00:11[KRunning 10 trials for 1 scenarios... 100%|███████████████| Time: 0:01:40[K
